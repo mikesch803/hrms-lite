@@ -11,8 +11,8 @@ The application focuses on clean architecture, RESTful API design, database pers
 
 ## 🚀 Live Application
 
-Frontend: []  
-Backend API: []  
+Frontend: [https://hrms-lite-eight-kappa.vercel.app/]  
+Backend API: [https://hrms-lite-1yrp.onrender.com]  
 
 ---
 
