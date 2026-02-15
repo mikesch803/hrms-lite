@@ -1,4 +1,4 @@
-const BASE_URL = import.meta.env.BASE_URL || "http://localhost:8000";
+const BASE_URL = import.meta.env.VITE_BASE_URL || "http://localhost:8000";
 
 export const getEmployees = async () => {
   const res = await fetch(`${BASE_URL}/employees`);
